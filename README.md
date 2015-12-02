@@ -3,7 +3,7 @@
 ## Step 1: clone the repo
 
 ```
-git clone https://github.com/voutcn/FP-COMP8503.git
+git clone https://github.com/voutcn/FP-COMP8503.git && cd FP-COMP8503
 ```
 
 ## Step 2: compile
